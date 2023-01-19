@@ -53,4 +53,3 @@ For support, open a pull request or open an issue [here](https://github.com/Scor
 ## License
 
 This project is licensed under the <a href="https://api.github.com/licenses/mit}">MIT License</a> license.
-        
